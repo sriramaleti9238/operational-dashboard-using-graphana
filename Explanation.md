@@ -22,11 +22,11 @@ To start the Spring Boot application, follow these steps:
 ### Documentation with Swagger
  - The code is documented using Swagger API. 
  - Access Swagger at http://localhost:8080/swagger-ui/index.html#/ to test the REST API endpoints.
-![img.png](img.png)
+https://drive.google.com/file/d/1IZsbqIqduxLOGHG7ma_8hXGSk3h0fbiY/view?usp=drive_link
  - Test the RESTAPI end points ,
 
  - For Storing the data , the in memory H2 database was used
- - ![img_1.png](img_1.png)
+ 
 
 ## Data in Grafana Dashboard
 
@@ -34,7 +34,7 @@ To start the Spring Boot application, follow these steps:
  - Dashboards, Panels, Queries were already created 
 
 ### Metrics data in Grafana Dashboard
-![img_2.png](img_2.png)
+https://drive.google.com/file/d/1xxLrxsOQKXmVcIXLYXBrWa5TUC0j46IE/view?usp=drive_link
 
   - Request rate: Number of requests created.
   - Response time: Average response time of the requests created.
